@@ -7,7 +7,7 @@
   <img src="BMO.gif" alt="BMO Animation" width="190"/>
   <br>
 
-  <p align="center">  AI • Robotics • Embedded Systems 📟 </p>
+  <p align="center">  AI • 3D Printing • Gaming 📟 </p>
 
   <br>
 
